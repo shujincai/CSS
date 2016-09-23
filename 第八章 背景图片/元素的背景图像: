@@ -1,0 +1,5 @@
+元素的背景图像:
+background-image:url(地址);
+图像定位:background-position: top left;
+图像平铺:background-repeat:repeat-x;
+背景简写属性:background: color image 
