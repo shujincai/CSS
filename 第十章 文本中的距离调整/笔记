@@ -1,0 +1,7 @@
+笔记
+首行缩进
+text-indent : 50px;
+字符间距
+letter-spacing :10px;
+单词间距
+word-spacing:10px

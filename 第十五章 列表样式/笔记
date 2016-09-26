@@ -1,0 +1,13 @@
+笔记
+list-style-type :定义列表标记项属性
+ul 无序列表
+square 实心方块
+circle 空心圆
+none 不显示标记
+默认 实心圆点
+
+ol 有序列表
+lower-roman 小写罗马数字
+hiragana-iroha riwenpian假名
+none 不显示标记项
+默认 阿拉伯数字

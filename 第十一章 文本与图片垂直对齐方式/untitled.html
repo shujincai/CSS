@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8">
+	<title>图片垂直对齐</title>
+	<style type="text/css">
+		img{
+			width: 200px;
+			height: 100px;
+		}
+		img.top{
+			vertical-align: text-top;
+		}
+		img.middle{
+			vertical-align: middle;
+		}
+		img.bottom{
+vertical-align: text-bottom;
+		}
+	</style>
+</head>
+<body>
+<p>文本 <img class="top" src="logo.png">图片上对齐</p>
+<p>文本 <img  class="middle" src="logo.png">图片居中对齐</p>
+<p>文本 <img class="bottom" src="logo.png">图片下对齐</p>
+<p>文本 <img src="logo.png">图片默认对齐</p>
+</body>
+</html>
